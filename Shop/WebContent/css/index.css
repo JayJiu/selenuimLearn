@@ -1,0 +1,13 @@
+@charset "UTF-8";
+ * {margin:0;padding:0;}
+ /* html,body{text-align:center;margin:0px auto;}*/
+ #top{height:100px;margin-top:10px;}
+ #search{height:100px;margin-top:10px;}
+li {list-style:none;display:inline-block;height:100px;margin-right:7px;margin-left:7px;}
+.left>ul>li{float:left;}
+/*  .left>ul{font-size:0px}  */
+.right>ul>li{float:right;}
+
+#search{margin: auto;width:300px;}
+.search_bar{float:left;}
+.search_button{float:left;}
